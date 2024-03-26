@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full stack Web Developer and Competitive Programmer</h3>
 - 💬 Ask me about **Bootstrap, node.js, frontend**
 
-- 📫 How to reach me **vishalsutharait.com**
+- 📫 How to reach me **vishalsutharait@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
