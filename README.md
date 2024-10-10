@@ -3,7 +3,6 @@
 <body style="display: flex ; flex-direction: column; align-items: center; justify-content: center ;">
 <h1 align="center">Hi 👋, I'm Vishal Suthar</h1>
 <h3 align="center">A passionate full stack Web Developer and Competitive Programmer</h3>
-- 💬 Ask me about **Bootstrap, node.js, frontend**
 
 - 📫 How to reach me **vishalsutharait@gmail.com**
 
